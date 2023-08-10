@@ -1,0 +1,12 @@
+{
+  "name": "gerador-de-senha",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^25.3.1"
+  }
+}
